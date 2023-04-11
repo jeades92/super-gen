@@ -1,9 +1,9 @@
-# title 2
+# Project1
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## description
-describe 2
+This is a readme generator
 
 ## Table of Contents 
 
@@ -25,7 +25,7 @@ To install necssary dependencies run the following command: npm i
 
 ## Usage
 
-one
+Use this to create a readme.md for your project
 
 ## License
 
@@ -33,7 +33,7 @@ This project is licensed under the MIT License
 
 ## Contributing
 
-two
+Anyone that would like to use this repo can contribute
 
 ## Tests
 
@@ -43,7 +43,7 @@ npm run test
 
 ## Questions
 
-If you have any questions please contact me at mail@mail.com
+If you have any questions please contact me at eadesj25@gmail.com
 
 My github is located at [jeades92](https://github.com/jeades92)
 
