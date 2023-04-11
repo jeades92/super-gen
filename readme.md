@@ -1,9 +1,9 @@
-# Project1
+# READEME generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## description
-This is a readme generator
+You can use this to easily make a README file for your project
 
 ## Table of Contents 
 
@@ -25,7 +25,7 @@ To install necssary dependencies run the following command: npm i
 
 ## Usage
 
-Use this to create a readme.md for your project
+Simply command node index.js to be walked through the steps to completion
 
 ## License
 
@@ -33,7 +33,7 @@ This project is licensed under the MIT License
 
 ## Contributing
 
-Anyone that would like to use this repo can contribute
+James Eades & Matthew Calimbas
 
 ## Tests
 
